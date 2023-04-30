@@ -25,7 +25,11 @@ public class HelloWorld {
     }
 
     public static void sort(int[] array){
-        boolean sorted = false;
+        if(array == null) {
+        	return;
+        }
+    	
+    	boolean sorted = false;
 
         while(sorted == false){
             int sorts = 0;
