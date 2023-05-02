@@ -1,4 +1,4 @@
-package eidi2.sose21.nachname.vorname.sheet01.ex03;
+package eidi2.sose23.Siegner.Nick.sheet01.ex03;
 
 public class Main {
     
